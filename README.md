@@ -15,6 +15,11 @@ DISCENTES:
 > Caio Christhian Lopes Silva
 ```
 
+Links para os repositorios:
+
+- [Repositorio Frontend](https://github.com/CaioChristhian/amarelinho-mobile/)
+- [Repositorio Backend](https://github.com/jpnoronhaa/amarelinho-backend)
+
 ## Visão Geral
 
 O Amarelinho é um aplicativo simplificado desenvolvido para conectar autônomos aos seus clientes de forma rápida e acessível, com ênfase na simplicidade de uso e na qualidade dos serviços prestados. Este documento detalha os requisitos funcionais e não funcionais do aplicativo.
