@@ -44,17 +44,17 @@
   - **Entregáveis:** Tela de edição de perfil funcional com validação de entrada e feedback de sucesso/erro.
 
 ### Backend
-- **Desenvolvimento de APIs para busca de profissionais com filtros básicos (RF03) (Dev 1)**
-  - **Objetivo:** Implementar a lógica no backend para permitir a busca de profissionais por nome, categoria, ou outras tags, incluindo filtros.
+- **Desenvolvimento de APIs para busca de profissionais com filtros básicos (RF03, RF04, RF05)** (João Pedro)
+  - **Objetivo:** Implementar a lógica no backend para permitir a busca de profissionais por nome, categoria, ou outras tags, incluindo filtros. Endpoints para informações detalhadas de profissionais
   - **Entregáveis:** Endpoint de busca com suporte a filtros implementado e documentado.
-
-- **Implementação de endpoints para visualização e detalhamento de perfis profissionais (RF04, RF05) (Dev 2)**
-  - **Objetivo:** Criar endpoints para fornecer informações detalhadas dos profissionais, incluindo descrição, avaliações e galeria de imagens.
-  - **Entregáveis:** Endpoints para detalhamento de perfil de profissionais implementados, com suporte a múltiplos tipos de conteúdo.
-
-- **Implementação de funcionalidades de edição de perfil do usuário (RF10) (Dev 3)**
+- **Implementação de funcionalidades de edição informações do usuário comum (RF10)** (Rafael)
   - **Objetivo:** Desenvolver a lógica para permitir que os usuários atualizem suas informações de perfil no sistema.
   - **Entregáveis:** Endpoint para edição de perfil de usuário, com validação e atualização de dados no banco.
+- **Desenvolvimento da lógica e endpoints para avaliação de profissionais (RF06)** (Emanuel)
+  - **Objetivo:** Implementar a funcionalidade que permite aos clientes avaliar os profissionais, armazenando as avaliações no banco de dados.
+  - **Entregáveis:** Endpoint para criação de avaliações, incluindo lógica para calcular a média das avaliações do profissional.
+- **Deploy e disponibilização da API** (Emanuel)
+  - **Entregáveis**: Serviço da API disponibilizado na web (não mapeado por PR)
 
 ## Sprint 3: Interação Avançada e Preferências
 
