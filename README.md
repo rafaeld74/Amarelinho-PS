@@ -23,3 +23,5 @@ DISCENTES:
 #### Documento de requisitos: [Requisitos](https://github.com/rafaeld74/Amarelinho-PS/blob/main/Requisitos.md)
 
 #### Planejamento inicial das tasks: [Tasks](https://github.com/rafaeld74/Amarelinho-PS/blob/main/Tasks.md)
+
+#### Exeção das Sprints: [Sprints](https://github.com/rafaeld74/Amarelinho-PS/blob/main/sprints-tasks.md) 
