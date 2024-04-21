@@ -1,6 +1,6 @@
 # Relação de Sprints e Tasks:
 
-### Sprint 1 (25/03 a 07/04):
+### Sprint 2 (08/03 a 21/04):
 ---
 <b>BACKEND</b>
 - RF00 - Configuração do servidor, banco de dados, e estruturação inicial da API
@@ -14,13 +14,13 @@
   - Revisor: [Emanuel Catão Montenegro](https://github.com/emanuelcatao)
 
 <b>FRONTEND</b>
-- RF00 - Estruturação inicial do projeto e configuração do ambiente de desenvolvimento
-  - [Caio Christhian](https://github.com/CaioChristhian)
-  - Revisor: Sem revisor (Setup do projeto)
-- RF01 - Design e implementação da UI para registro de usuário
+- RF03 - Design e implementação da funcionalidade de busca de profissionais
+  - Autor: [Caio Christhian](https://github.com/CaioChristhian)
+  - Revisor:[Caio Henrique Pinho](https://github.com/CaioHPS3)
+- RF04, RF05 - Implementação da UI para visualização e detalhamento de perfil do profissional 
   - Autor: [Caio Henrique Pinho](https://github.com/CaioHPS3)
-  - Revisor: [Caio Christhian](https://github.com/CaioChristhian)
-- RF02 - Design e implementação da UI para login de usuário
+  - Revisor: [Gabriel Tavares dos Santos](https://github.com/Dev-Gabu)
+- RF10 - Design e implementação da UI para edição de perfil do usuário
   - Autor: [Gabriel Tavares dos Santos](https://github.com/Dev-Gabu)
-  - Revisor: [Caio Henrique Pinho](https://github.com/CaioHPS3)
+  - Revisor: .[Caio Christhian](https://github.com/CaioChristhian)
 ---
