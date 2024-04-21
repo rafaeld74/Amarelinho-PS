@@ -31,15 +31,15 @@
 ## Sprint 2: Exploração, Informação, e Edição de Perfil
 
 ### Frontend
-- **Design e implementação da funcionalidade de busca de profissionais (RF03) (Dev 1)**
+- **Design e implementação da funcionalidade de busca de profissionais (RF03) (Caio Christian)
   - **Objetivo:** Criar uma interface de busca que permita aos usuários procurar por profissionais utilizando palavras-chave e filtros.
   - **Entregáveis:** Tela de busca implementada com funcionalidade de filtragem e visualização de resultados.
 
-- **Implementação da UI para visualização e detalhamento de perfil do profissional (RF04, RF05) (Dev 2)**
+- **Implementação da UI para visualização e detalhamento de perfil do profissional (RF04, RF05) (Caio Henrique)
   - **Objetivo:** Desenvolver telas para visualizar o perfil dos profissionais, incluindo informações detalhadas e galeria de imagens.
   - **Entregáveis:** Telas de perfil de profissionais com detalhamento de informações e visualização de avaliações e trabalhos anteriores.
 
-- **Design e implementação da UI para edição de perfil do usuário (RF10) (Dev 3)**
+- **Design e implementação da UI para edição de perfil do usuário (RF10) (Gabriel)
   - **Objetivo:** Criar uma interface que permita aos usuários editar suas informações de perfil, incluindo dados pessoais, profissionais e preferências.
   - **Entregáveis:** Tela de edição de perfil funcional com validação de entrada e feedback de sucesso/erro.
 
