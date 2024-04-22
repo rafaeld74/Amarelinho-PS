@@ -1,7 +1,7 @@
 # Relação de Sprints e Tasks:
 
 
-### Sprint 1 (25/03 a 07/04):
+### Sprint 1 (25/03 a 07/04): Fundamentos e Autenticação
 ---
 <b>BACKEND</b>
 - RF00 - Configuração do servidor, banco de dados, e estruturação inicial da API
