@@ -32,7 +32,7 @@
 - RF03 - Desenvolvimento de APIs para busca de profissionais com filtros básicos
   - Autor: [João Pedro Noronha de M. Souza](https://github.com/jpnoronhaa)
   - Revisor: [Emanuel Catão Montenegro](https://github.com/emanuelcatao)
-- RF04 - 
+- RF04 - Desenvolvimento da lógica e endpoints para avaliação de profissionais
   - Autor: [Emanuel Catão Montenegro](https://github.com/emanuelcatao)
   - Revisor: [Rafael de Oliveira Ribeiro](https://github.com/rafaeld74)
 - RF05 - Implementação de funcionalidades de edição informações do usuário comum
