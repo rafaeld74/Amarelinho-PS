@@ -26,7 +26,7 @@
   - Revisor: [Caio Henrique Pinho](https://github.com/CaioHPS3)
 ---
 
-### Sprint 2 (08/03 a 21/04):
+### Sprint 2 (08/03 a 21/04): Exploração, Informação, e Edição de Perfil
 ---
 <b>BACKEND</b>
 - RF03 - Desenvolvimento de APIs para busca de profissionais com filtros básicos
