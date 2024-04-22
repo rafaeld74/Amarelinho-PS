@@ -32,12 +32,15 @@
 - RF03 - Desenvolvimento de APIs para busca de profissionais com filtros básicos
   - Autor: [João Pedro Noronha de M. Souza](https://github.com/jpnoronhaa)
   - Revisor: [Emanuel Catão Montenegro](https://github.com/emanuelcatao)
+  - pull request: (https://github.com/jpnoronhaa/amarelinho-backend/pull/4)
 - RF04 - Desenvolvimento da lógica e endpoints para avaliação de profissionais
   - Autor: [Emanuel Catão Montenegro](https://github.com/emanuelcatao)
   - Revisor: [Rafael de Oliveira Ribeiro](https://github.com/rafaeld74)
+  - pull request:(https://github.com/jpnoronhaa/amarelinho-backend/pull/5)
 - RF05 - Implementação de funcionalidades de edição informações do usuário comum
   - Autor: [Rafael de Oliveira Ribeiro](https://github.com/rafaeld74)
   - Revisor: [João Pedro Noronha de M. Souza](https://github.com/jpnoronhaa))
+  - pull request:(https://github.com/jpnoronhaa/amarelinho-backend/pull/6)
 
 <b>FRONTEND</b>
 - RF03 - Design e implementação da funcionalidade de busca de profissionais
