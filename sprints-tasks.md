@@ -46,10 +46,13 @@
 - RF03 - Design e implementação da funcionalidade de busca de profissionais
   - Autor: [Caio Christhian](https://github.com/CaioChristhian)
   - Revisor:[Caio Henrique Pinho](https://github.com/CaioHPS3)
+  - Pull Request: [Link](https://github.com/CaioChristhian/amarelinho-mobile/commit/6c21ccd17c7d6f577bf8f107e4dd08c664ef736a)
 - RF04, RF05 - Implementação da UI para visualização e detalhamento de perfil do profissional 
   - Autor: [Caio Henrique Pinho](https://github.com/CaioHPS3)
   - Revisor: [Gabriel Tavares dos Santos](https://github.com/Dev-Gabu)
+  - Pull Request: [Link](https://github.com/CaioChristhian/amarelinho-mobile/commit/e4a62117911c00d084434f8ab2811546057e407a)
 - RF10 - Design e implementação da UI para edição de perfil do usuário
   - Autor: [Gabriel Tavares dos Santos](https://github.com/Dev-Gabu)
   - Revisor: .[Caio Christhian](https://github.com/CaioChristhian)
+  - Pull Request: [Link](https://github.com/CaioChristhian/amarelinho-mobile/commit/53077bac51bb84b8708d4102542372523226030a)
 ---
