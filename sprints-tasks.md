@@ -29,15 +29,15 @@
 ### Sprint 2 (08/03 a 21/04):
 ---
 <b>BACKEND</b>
-- RF00 - Configuração do servidor, banco de dados, e estruturação inicial da API
+- RF03 - Desenvolvimento de APIs para busca de profissionais com filtros básicos
   - Autor: [João Pedro Noronha de M. Souza](https://github.com/jpnoronhaa)
-  - Revisor: Sem revisor (Setup do projeto)
-- RF01 - Implementação dos endpoints de registro de usuário
-  - Autor: [Emanuel Catão Montenegro](https://github.com/emanuelcatao)
-  - Revisor: [João Pedro Noronha de M. Souza](https://github.com/jpnoronhaa))
-- RF02 - Implementação dos endpoints de login de usuário
-  - Autor: [Rafael de Oliveira Ribeiro](https://github.com/rafaeld74)
   - Revisor: [Emanuel Catão Montenegro](https://github.com/emanuelcatao)
+- RF04 - 
+  - Autor: [Emanuel Catão Montenegro](https://github.com/emanuelcatao)
+  - Revisor: [Rafael de Oliveira Ribeiro](https://github.com/rafaeld74)
+- RF05 - Implementação de funcionalidades de edição informações do usuário comum
+  - Autor: [Rafael de Oliveira Ribeiro](https://github.com/rafaeld74)
+  - Revisor: [João Pedro Noronha de M. Souza](https://github.com/jpnoronhaa))
 
 <b>FRONTEND</b>
 - RF03 - Design e implementação da funcionalidade de busca de profissionais
