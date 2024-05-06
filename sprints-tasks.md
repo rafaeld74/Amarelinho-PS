@@ -73,15 +73,15 @@
   - pull request:(https://github.com/jpnoronhaa/amarelinho-backend/pull/6)
 
 <b>FRONTEND</b>
-- RF07 - Design e implementação do chat em tempo real
+- RF11 - Design e implementação das preferências do usuário
   - Autor: [Caio Christhian](https://github.com/CaioChristhian)
   - Revisor:[Caio Henrique Pinho](https://github.com/CaioHPS3)
-  - Pull Request: [Link](https://github.com/CaioChristhian/amarelinho-mobile/commit/6c21ccd17c7d6f577bf8f107e4dd08c664ef736a)
+  - Pull Request: [Link](https://github.com/CaioChristhian/amarelinho-mobile/pull/12)
 - RF06 - Implementação da UI para avaliação de profissionais 
   - Autor: [Caio Henrique Pinho](https://github.com/CaioHPS3)
   - Revisor: [Gabriel Tavares dos Santos](https://github.com/Dev-Gabu)
   - Pull Request: [Link](https://github.com/CaioChristhian/amarelinho-mobile/commit/2048241b630059dcbfce00b94eefad62d565c49a)
-- RF11 - Design e implementação das preferências do usuário
+- RF07 - Design e implementação do chat em tempo real
   - Autor: [Gabriel Tavares dos Santos](https://github.com/Dev-Gabu)
   - Revisor: .[Caio Christhian](https://github.com/CaioChristhian)
   - Pull Request: [Link](https://github.com/CaioChristhian/amarelinho-mobile/commit/53077bac51bb84b8708d4102542372523226030a)
