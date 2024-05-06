@@ -56,7 +56,7 @@
   - Revisor: .[Caio Christhian](https://github.com/CaioChristhian)
   - Pull Request: [Link](https://github.com/CaioChristhian/amarelinho-mobile/commit/53077bac51bb84b8708d4102542372523226030a)
 ---
-### Sprint 3 (22/03 a 05/04): Exploração, Informação, e Edição de Perfil
+### Sprint 3 (22/03 a 05/04): Interação Avançada e Preferências
 ---
 <b>BACKEND</b>
 - RF13 - Desenvolvimento do sistema de recomendação de profissionais 
