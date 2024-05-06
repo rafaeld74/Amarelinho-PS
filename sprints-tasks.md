@@ -59,19 +59,19 @@
 ### Sprint 3 (22/03 a 05/04): Exploração, Informação, e Edição de Perfil
 ---
 <b>BACKEND</b>
-- RF03 - Desenvolvimento de APIs para busca de profissionais com filtros básicos
+- RF13 - Desenvolvimento do sistema de recomendação de profissionais 
   - Autor: [João Pedro Noronha de M. Souza](https://github.com/jpnoronhaa)
   - Revisor: [Emanuel Catão Montenegro](https://github.com/emanuelcatao)
-  - pull request: (https://github.com/jpnoronhaa/amarelinho-backend/pull/4)
-- RF04 - Desenvolvimento da lógica e endpoints para avaliação de profissionais
+  - pull request: [Link]()
+- RF14 - Implementação da lógica de notificações push 
   - Autor: [Emanuel Catão Montenegro](https://github.com/emanuelcatao)
   - Revisor: [Rafael de Oliveira Ribeiro](https://github.com/rafaeld74)
-  - pull request:(https://github.com/jpnoronhaa/amarelinho-backend/pull/5)
-- RF05 - Implementação de funcionalidades de edição informações do usuário comum
+  - pull request:[Link](https://github.com/jpnoronhaa/amarelinho-backend/pull/5)
+- RF07 - Implementação da infraestrutura e endpoints para o chat em tempo real(Não finalisado ainda)
   - Autor: [Rafael de Oliveira Ribeiro](https://github.com/rafaeld74)
   - Revisor: [João Pedro Noronha de M. Souza](https://github.com/jpnoronhaa))
-  - pull request:(https://github.com/jpnoronhaa/amarelinho-backend/pull/6)
-
+  - Commit:[Link](https://github.com/jpnoronhaa/amarelinho-backend/commit/9f66acccd90089be92ea6219049ef365c0c2e2e2)
+ 
 <b>FRONTEND</b>
 - RF11 - Design e implementação das preferências do usuário
   - Autor: [Caio Christhian](https://github.com/CaioChristhian)
