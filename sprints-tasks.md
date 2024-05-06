@@ -84,6 +84,6 @@
 - RF07 - Design e implementação do chat em tempo real
   - Autor: [Gabriel Tavares dos Santos](https://github.com/Dev-Gabu)
   - Revisor: .[Caio Christhian](https://github.com/CaioChristhian)
-  - Pull Request: [Link](https://github.com/CaioChristhian/amarelinho-mobile/commit/53077bac51bb84b8708d4102542372523226030a)
+  - Pull Request: [Link](https://github.com/CaioChristhian/amarelinho-mobile/commit/e5354b30a6834714fdb02a51683509152cff0b98)
 ---
 
