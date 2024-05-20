@@ -86,7 +86,7 @@
   - Revisor: .[Caio Christhian](https://github.com/CaioChristhian)
   - Pull Request: [Link](https://github.com/CaioChristhian/amarelinho-mobile/commit/e5354b30a6834714fdb02a51683509152cff0b98)
 ---
-### Sprint 4 (06/05 a 19/05): Interação Avançada e Preferências
+### Sprint 4 (06/05 a 19/05): Recomendações, Notificações, e Segurança
 ---
 <b>BACKEND</b>
 - RF13 - Desenvolvimento do sistema de recomendação de profissionais 
