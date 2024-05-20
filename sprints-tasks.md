@@ -86,4 +86,33 @@
   - Revisor: .[Caio Christhian](https://github.com/CaioChristhian)
   - Pull Request: [Link](https://github.com/CaioChristhian/amarelinho-mobile/commit/e5354b30a6834714fdb02a51683509152cff0b98)
 ---
-
+### Sprint 4 (06/05 a 19/05): Interação Avançada e Preferências
+---
+<b>BACKEND</b>
+- RF13 - Desenvolvimento do sistema de recomendação de profissionais 
+  - Autor: [João Pedro Noronha de M. Souza](https://github.com/jpnoronhaa)
+  - Revisor: [Emanuel Catão Montenegro](https://github.com/emanuelcatao)
+  - pull request: [Link]()
+- RF14 - Implementação da lógica de notificações push 
+  - Autor: [Emanuel Catão Montenegro](https://github.com/emanuelcatao)
+  - Revisor: [Rafael de Oliveira Ribeiro](https://github.com/rafaeld74)
+  - pull request:[Link](https://github.com/jpnoronhaa/amarelinho-backend/pull/5)
+- RF07 - Implementação da infraestrutura e endpoints para o chat em tempo real (RF07)
+  - Autor: [Rafael de Oliveira Ribeiro](https://github.com/rafaeld74)
+  - Revisor: [João Pedro Noronha de M. Souza](https://github.com/jpnoronhaa))
+  - Pull Request:[Link](https://github.com/jpnoronhaa/amarelinho-backend/commit/6af805221358aa966af1be0acee30b9df6894255)
+ 
+<b>FRONTEND</b>
+- RF11 - Design e implementação das preferências do usuário
+  - Autor: [Caio Christhian](https://github.com/CaioChristhian)
+  - Revisor:[Caio Henrique Pinho](https://github.com/CaioHPS3)
+  - Pull Request: [Link](https://github.com/CaioChristhian/amarelinho-mobile/pull/12)
+- RF06 - Implementação da UI para avaliação de profissionais 
+  - Autor: [Caio Henrique Pinho](https://github.com/CaioHPS3)
+  - Revisor: [Gabriel Tavares dos Santos](https://github.com/Dev-Gabu)
+  - Pull Request: [Link](https://github.com/CaioChristhian/amarelinho-mobile/commit/2048241b630059dcbfce00b94eefad62d565c49a)
+- RF07 - Design e implementação do chat em tempo real
+  - Autor: [Gabriel Tavares dos Santos](https://github.com/Dev-Gabu)
+  - Revisor: .[Caio Christhian](https://github.com/CaioChristhian)
+  - Pull Request: [Link](https://github.com/CaioChristhian/amarelinho-mobile/commit/e5354b30a6834714fdb02a51683509152cff0b98)
+---
