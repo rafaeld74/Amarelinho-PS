@@ -86,22 +86,25 @@
   - Revisor: .[Caio Christhian](https://github.com/CaioChristhian)
   - Pull Request: [Link](https://github.com/CaioChristhian/amarelinho-mobile/commit/e5354b30a6834714fdb02a51683509152cff0b98)
 ---
-### Sprint 4 (06/05 a 19/05): Recomendações, Notificações, e Segurança
+### Sprint 4 (06/05 a 19/05): Recomendações, Documentação e Comunicação
 ---
 <b>BACKEND</b>
-- RF13 - Desenvolvimento do sistema de recomendação de profissionais 
+- RF13 - Recomendação de profissionais 
   - Autor: [João Pedro Noronha de M. Souza](https://github.com/jpnoronhaa)
   - Revisor: [Emanuel Catão Montenegro](https://github.com/emanuelcatao)
-  - pull request: [Link]()
-- RF14 - Implementação da lógica de notificações push 
+  - pull request: [Link](https://github.com/jpnoronhaa/amarelinho-backend/pull/10)
+- RF16 - Inclusão do swagger
   - Autor: [Emanuel Catão Montenegro](https://github.com/emanuelcatao)
   - Revisor: [Rafael de Oliveira Ribeiro](https://github.com/rafaeld74)
-  - pull request:[Link](https://github.com/jpnoronhaa/amarelinho-backend/pull/5)
+  - pull request:[Link](https://github.com/jpnoronhaa/amarelinho-backend/pull/11)
 - RF07 - Implementação da infraestrutura e endpoints para o chat em tempo real (RF07)
   - Autor: [Rafael de Oliveira Ribeiro](https://github.com/rafaeld74)
   - Revisor: [João Pedro Noronha de M. Souza](https://github.com/jpnoronhaa))
-  - Pull Request:[Link](https://github.com/jpnoronhaa/amarelinho-backend/commit/6af805221358aa966af1be0acee30b9df6894255)
- 
+  - Pull Request:[Link](https://github.com/jpnoronhaa/amarelinho-backend/pull/9)
+- RNF - Ajuste da lógica para lidar com imagens do usuário
+  - Autor: [Emanuel Catão Montenegro](https://github.com/emanuelcatao)
+  - Revisor: [Rafael de Oliveira Ribeiro](https://github.com/rafaeld74)
+  - Pull Request: [Link](https://github.com/jpnoronhaa/amarelinho-backend/pull/8)
 <b>FRONTEND</b>
 - RF11 - Design e implementação das preferências do usuário
   - Autor: [Caio Christhian](https://github.com/CaioChristhian)
