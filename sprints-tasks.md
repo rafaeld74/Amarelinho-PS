@@ -88,6 +88,7 @@
 ---
 ### Sprint 4 (06/05 a 19/05): Recomendações, Documentação e Comunicação
 ---
+
 <b>BACKEND</b>
 - RF13 - Recomendação de profissionais 
   - Autor: [João Pedro Noronha de M. Souza](https://github.com/jpnoronhaa)
@@ -105,6 +106,7 @@
   - Autor: [Emanuel Catão Montenegro](https://github.com/emanuelcatao)
   - Revisor: [Rafael de Oliveira Ribeiro](https://github.com/rafaeld74)
   - Pull Request: [Link](https://github.com/jpnoronhaa/amarelinho-backend/pull/8)
+    
 <b>FRONTEND</b>
 - RF11 - Design e implementação das preferências do usuário
   - Autor: [Caio Christhian](https://github.com/CaioChristhian)
