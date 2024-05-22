@@ -25,3 +25,5 @@ DISCENTES:
 #### Planejamento inicial das tasks: [Tasks](https://github.com/rafaeld74/Amarelinho-PS/blob/main/Tasks.md)
 
 #### Execução das Sprints: [Sprints](https://github.com/rafaeld74/Amarelinho-PS/blob/main/sprints-tasks.md) 
+
+#### Trello: [Trello](https://trello.com/w/amarelinho3/home)
