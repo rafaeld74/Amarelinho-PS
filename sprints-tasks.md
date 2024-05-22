@@ -108,16 +108,16 @@
   - Pull Request: [Link](https://github.com/jpnoronhaa/amarelinho-backend/pull/8)
     
 <b>FRONTEND</b>
-- RF11 - Design e implementação das preferências do usuário
+- RF11 - Implementação da UI para configurações de backup e recuperação de dados do usuário (RF15) 
   - Autor: [Caio Christhian](https://github.com/CaioChristhian)
   - Revisor:[Caio Henrique Pinho](https://github.com/CaioHPS3)
-  - Pull Request: [Link](https://github.com/CaioChristhian/amarelinho-mobile/pull/12)
+  - Pull Request:
 - RF06 - Implementação da UI para avaliação de profissionais 
   - Autor: [Caio Henrique Pinho](https://github.com/CaioHPS3)
   - Revisor: [Gabriel Tavares dos Santos](https://github.com/Dev-Gabu)
   - Pull Request: [Link](https://github.com/CaioChristhian/amarelinho-mobile/commit/2048241b630059dcbfce00b94eefad62d565c49a)
-- RF07 - Design e implementação do chat em tempo real
+- RF07 - Integração do sistema de recomendação de profissionais na UI (RF13)
   - Autor: [Gabriel Tavares dos Santos](https://github.com/Dev-Gabu)
   - Revisor: .[Caio Christhian](https://github.com/CaioChristhian)
-  - Pull Request: [Link](https://github.com/CaioChristhian/amarelinho-mobile/commit/e5354b30a6834714fdb02a51683509152cff0b98)
+  - Pull Request:
 ---
