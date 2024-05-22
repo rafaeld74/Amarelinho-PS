@@ -112,7 +112,7 @@
   - Autor: [Caio Christhian](https://github.com/CaioChristhian)
   - Revisor:[Caio Henrique Pinho](https://github.com/CaioHPS3)
   - Pull Request:
-- RF06 - Implementação da UI para avaliação de profissionais 
+- RF06 - Design e implementação da interface para notificações push (RF14)
   - Autor: [Caio Henrique Pinho](https://github.com/CaioHPS3)
   - Revisor: [Gabriel Tavares dos Santos](https://github.com/Dev-Gabu)
   - Pull Request: [Link](https://github.com/CaioChristhian/amarelinho-mobile/commit/2048241b630059dcbfce00b94eefad62d565c49a)
