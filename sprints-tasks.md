@@ -138,10 +138,26 @@
 
     
 <b>FRONTEND</b>
+- RF02 - Interface de Login
+  - Autor: [Gabriel Tavares dos Santos](https://github.com/Dev-Gabu)
+  - Revisor: .[Caio Henrique Pinho](https://github.com/CaioHPS3)
+  - Pull Request:[Link](https://github.com/CaioChristhian/amarelinho-mobile/pull/3#event-12396504811)
+- RF06 - Interface da Tela de Usuário
+  - Autor: [Gabriel Tavares dos Santos](https://github.com/Dev-Gabu)
+  - Revisor: .[Caio Christhian](https://github.com/CaioChristhian)
+  - Pull Request:[Link](https://github.com/CaioChristhian/amarelinho-mobile/pull/6)
+- RF06 - Interface da Avaliação do Profissional
+  - Autor: [Caio Henrique Pinho](https://github.com/CaioHPS3)
+  - Revisor: [Gabriel Tavares dos Santos](https://github.com/Dev-Gabu)
+  - Pull Request:[Link](https://github.com/CaioChristhian/amarelinho-mobile/pull/11#event-12705554759)
+- RF06 - Interface inicial do Chat
+  - Autor: [Gabriel Tavares dos Santos](https://github.com/Dev-Gabu)
+  - Revisor: .[Caio Christhian](https://github.com/CaioChristhian)
+  - Pull Request:[Link]((https://github.com/CaioChristhian/amarelinho-mobile/pull/13#event-12715285953))
 - RF11 - Implementação da UI para configurações de backup e recuperação de dados do usuário (RF15) 
   - Autor: [Caio Christhian](https://github.com/CaioChristhian)
   - Revisor:[Caio Henrique Pinho](https://github.com/CaioHPS3)
-  - Pull Request:
+  - Pull Request: [Link](https://github.com/CaioChristhian/amarelinho-mobile/pull/17#event-13012039301)
 - RF06 - Design e implementação da interface para notificações push (RF14)
   - Autor: [Caio Henrique Pinho](https://github.com/CaioHPS3)
   - Revisor: [Gabriel Tavares dos Santos](https://github.com/Dev-Gabu)
@@ -149,5 +165,4 @@
 - RF07 - Integração do sistema de recomendação de profissionais na UI (RF13)
   - Autor: [Gabriel Tavares dos Santos](https://github.com/Dev-Gabu)
   - Revisor: .[Caio Christhian](https://github.com/CaioChristhian)
-  - Pull Request:
----
+  - Pull Request: [Link](https://github.com/CaioChristhian/amarelinho-mobile/pull/19#pullrequestreview-2094347215)
