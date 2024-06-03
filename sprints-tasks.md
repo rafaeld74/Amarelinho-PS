@@ -90,14 +90,14 @@
 ---
 
 <b>BACKEND</b>
-- RF13 - Recomendação de profissionais 
+- RF13 - 
   - Autor: [João Pedro Noronha de M. Souza](https://github.com/jpnoronhaa)
   - Revisor: [Emanuel Catão Montenegro](https://github.com/emanuelcatao)
-  - pull request: [Link](https://github.com/jpnoronhaa/amarelinho-backend/pull/10)
-- RF16 - Inclusão do swagger
+  - pull request: [Link]()
+- RF16 - 
   - Autor: [Emanuel Catão Montenegro](https://github.com/emanuelcatao)
   - Revisor: [Rafael de Oliveira Ribeiro](https://github.com/rafaeld74)
-  - pull request:[Link](https://github.com/jpnoronhaa/amarelinho-backend/pull/11)
+  - pull request:[Link]()
 - RF07 - Dploy
   - Autor: [Rafael de Oliveira Ribeiro](https://github.com/rafaeld74)
   - Revisor: [João Pedro Noronha de M. Souza](https://github.com/jpnoronhaa))
