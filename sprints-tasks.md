@@ -98,14 +98,11 @@
   - Autor: [Emanuel Catão Montenegro](https://github.com/emanuelcatao)
   - Revisor: [Rafael de Oliveira Ribeiro](https://github.com/rafaeld74)
   - pull request:[Link](https://github.com/jpnoronhaa/amarelinho-backend/pull/11)
-- RF07 - Implementação da infraestrutura e endpoints para o chat em tempo real (RF07)
+- RF07 - Dploy
   - Autor: [Rafael de Oliveira Ribeiro](https://github.com/rafaeld74)
   - Revisor: [João Pedro Noronha de M. Souza](https://github.com/jpnoronhaa))
-  - Pull Request:[Link](https://github.com/jpnoronhaa/amarelinho-backend/pull/9)
-- RNF - Ajuste da lógica para lidar com imagens do usuário
-  - Autor: [Emanuel Catão Montenegro](https://github.com/emanuelcatao)
-  - Revisor: [Rafael de Oliveira Ribeiro](https://github.com/rafaeld74)
-  - Pull Request: [Link](https://github.com/jpnoronhaa/amarelinho-backend/pull/8)
+  - Pull Request:[Link](https://github.com/jpnoronhaa/amarelinho-backend/pull/17)
+
     
 <b>FRONTEND</b>
 - RF11 - Implementação da UI para configurações de backup e recuperação de dados do usuário (RF15) 
