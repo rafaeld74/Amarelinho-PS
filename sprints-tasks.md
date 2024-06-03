@@ -118,3 +118,36 @@
   - Revisor: .[Caio Christhian](https://github.com/CaioChristhian)
   - Pull Request:
 ---
+
+### Sprint 5 (19/05 a 02/06): Correção de erros e deploy
+---
+
+<b>BACKEND</b>
+- RF13 - 
+  - Autor: [João Pedro Noronha de M. Souza](https://github.com/jpnoronhaa)
+  - Revisor: [Emanuel Catão Montenegro](https://github.com/emanuelcatao)
+  - pull request: [Link]()
+- RF16 - 
+  - Autor: [Emanuel Catão Montenegro](https://github.com/emanuelcatao)
+  - Revisor: [Rafael de Oliveira Ribeiro](https://github.com/rafaeld74)
+  - pull request:[Link]()
+- RF06 - Deploy
+  - Autor: [Rafael de Oliveira Ribeiro](https://github.com/rafaeld74)
+  - Revisor: [João Pedro Noronha de M. Souza](https://github.com/jpnoronhaa))
+  - Pull Request:[Link](https://github.com/jpnoronhaa/amarelinho-backend/pull/17)
+
+    
+<b>FRONTEND</b>
+- RF11 - Implementação da UI para configurações de backup e recuperação de dados do usuário (RF15) 
+  - Autor: [Caio Christhian](https://github.com/CaioChristhian)
+  - Revisor:[Caio Henrique Pinho](https://github.com/CaioHPS3)
+  - Pull Request:
+- RF06 - Design e implementação da interface para notificações push (RF14)
+  - Autor: [Caio Henrique Pinho](https://github.com/CaioHPS3)
+  - Revisor: [Gabriel Tavares dos Santos](https://github.com/Dev-Gabu)
+  - Pull Request: [Link](https://github.com/CaioChristhian/amarelinho-mobile/commit/2048241b630059dcbfce00b94eefad62d565c49a)
+- RF07 - Integração do sistema de recomendação de profissionais na UI (RF13)
+  - Autor: [Gabriel Tavares dos Santos](https://github.com/Dev-Gabu)
+  - Revisor: .[Caio Christhian](https://github.com/CaioChristhian)
+  - Pull Request:
+---
