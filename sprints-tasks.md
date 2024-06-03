@@ -90,15 +90,15 @@
 ---
 
 <b>BACKEND</b>
-- RF13 - 
+- RF13 - Recomendação de profissionais 
   - Autor: [João Pedro Noronha de M. Souza](https://github.com/jpnoronhaa)
   - Revisor: [Emanuel Catão Montenegro](https://github.com/emanuelcatao)
-  - pull request: [Link]()
-- RF16 - 
+  - pull request: [Link](https://github.com/jpnoronhaa/amarelinho-backend/pull/10)
+- RF16 - Inclusão do swagger
   - Autor: [Emanuel Catão Montenegro](https://github.com/emanuelcatao)
   - Revisor: [Rafael de Oliveira Ribeiro](https://github.com/rafaeld74)
-  - pull request:[Link]()
-- RF07 - Dploy
+  - pull request:[Link](https://github.com/jpnoronhaa/amarelinho-backend/pull/11)
+- RF06 - Implementação da UI para avaliação de profissionais 
   - Autor: [Rafael de Oliveira Ribeiro](https://github.com/rafaeld74)
   - Revisor: [João Pedro Noronha de M. Souza](https://github.com/jpnoronhaa))
   - Pull Request:[Link](https://github.com/jpnoronhaa/amarelinho-backend/pull/17)
